@@ -9,7 +9,7 @@ This repository contains the full control stack for the **Interbotix ViperX-300 
 - **Operating System**:
   - Linux: Ubuntu 22.04 (via WSL2)
   - Windows 10/11 with MATLAB support
-- **Hardware**: Intel Core i9-13900K CPU, 64 GB RAM
+
 - **Frameworks**:
   - ROS2 (Humble)
   - Python 3.10+
@@ -24,3 +24,8 @@ This repository contains the full control stack for the **Interbotix ViperX-300 
 - ✅ **Forward and Inverse Kinematics Implementations**
 - ✅ **Mass-Inertia Matrix Calculation using MATLAB**
 - ✅ **TCP/IP Server-Client Communication** between Python (ROS2) and MATLAB
+
+
+## 🎥 Demo Video
+
+Watch the experimental results here: [YouTube Video](https://www.youtube.com/watch?v=C7nhoAOrIeo)
